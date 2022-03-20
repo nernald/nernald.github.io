@@ -826,25 +826,6 @@ Engagement Pics
   opacity: 1;
   z-index: 9;
 }
-#eng-pics .diamond {
-  width: 230px;
-  height: 230px;
-  position: absolute;
-  bottom: -145px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 500;
-}
-#eng-pics .ring {
-  width: 75px;
-  height: 75px;
-  border-radius: 75px;
-  border: 10px solid #d0d3d4;
-  position: absolute;
-  left: 34%;
-  top: 75%;
-  z-index: -1;
-}
 
 /* ==========================================================================
 Embed video
